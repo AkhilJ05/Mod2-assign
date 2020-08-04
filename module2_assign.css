@@ -12,7 +12,8 @@ h1 {
   border: 2px solid black;
   margin-right: 15px;
   margin-left: 15px;
-  margin-bottom: 30px;
+  margin-bottom: 30px
+  background-color:#96D2DA
 }
 
 p#chicken {
@@ -24,6 +25,7 @@ position: top-right;
 margin-top: 0px;
 margin-right: 0px;
 font-style: italic;
+  background-color: white
 }
 
 p#par2 {
@@ -35,6 +37,7 @@ position: top-right;
 margin-top: 0px;
 margin-right: 0px;
 font-style: italic;
+  background-color:gray
 }
 
 p#par3 {
@@ -46,6 +49,7 @@ position: top-right;
 margin-top: 0px;
 margin-right: 0px;
 font-style: italic;
+background-color: red
 }
 
 p{
@@ -55,6 +59,7 @@ p{
   margin-left: 22px;
   margin-right: 20px;
   margin-bottom: 5px;
+  background-color: inherit;
 }
 
 .row {
